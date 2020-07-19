@@ -16,7 +16,7 @@ or
 
 Just running it...
 
-    $ ./busyboy
+    $ ./busboy
 
 will start a server on port :8580 and serve the current directory. You can do:
 
